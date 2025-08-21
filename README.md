@@ -4,10 +4,6 @@ A Python GUI tool to clean image metadata and batch convert images to HEIC,
 with multithreading, logging, and progress tracking.
 
 
-
-
-
-
 ✨ Features
 
 🧹 Metadata Cleaner → Removes all hidden EXIF/metadata from images for privacy & security
